@@ -3,6 +3,7 @@
   "description": "HongYuKeJi Forum Templates Html5",
   "keywords": ["hongyu","hongyukeji","Forum Templates"],
   "license": "MIT",
+  "type": "yii2-extension",
   "authors": [
     {
       "name": "Shadow",
@@ -17,12 +18,6 @@
   "autoload": {
     "psr-4": {
       "hongyukeji\\templates\\": ""
-    }
-  },
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.phpcomposer.com"
     }
   }
 }
