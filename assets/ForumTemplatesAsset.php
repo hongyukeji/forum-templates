@@ -14,10 +14,10 @@ class ForumTemplatesAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/hongyukeji/forum-templates/static/';
     public $css = [
-        'css/font-awesome.min.css',
         'css/bootstrap5152.css?ver=1.0',
         'css/responsive5152.css?ver=1.0',
         'css/main5152.css?ver=1.0',
+        'css/font-awesome.min.css',
         'css/site.css',
     ];
     public $js = [
