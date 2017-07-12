@@ -2,7 +2,7 @@
   "name": "hongyukeji/forum-templates",
   "description": "HongYuKeJi Forum Templates Html5",
   "keywords": ["hongyu","hongyukeji","Forum Templates"],
-  "type": "yii2-extension",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
